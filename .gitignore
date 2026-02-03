@@ -1,0 +1,30 @@
+# Arduino build files
+build/
+*.hex
+*.elf
+*.bin
+*.map
+
+# Arduino IDE
+.arduino/
+*.prefs
+*.bak
+
+# Visual Studio Code
+.vscode/
+*.code-workspace
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary files
+*.tmp
+*.log
+*~
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
